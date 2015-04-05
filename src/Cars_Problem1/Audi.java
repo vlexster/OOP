@@ -1,4 +1,4 @@
-package problem1;
+package Cars_Problem1;
 
 public class Audi extends Car{
 	private float milage;
